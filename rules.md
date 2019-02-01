@@ -1,4 +1,5 @@
 https://discordapp.com/guidelines
+
 https://discordapp.com/terms
 
 Remember to follow the channel names/topics. There might be some hidden rules in there.
@@ -21,18 +22,23 @@ You must comply with the Discord ToS and Guidelines.
 Members must be at least 13 years or older to be on this server.
 
 Please abide by them the BEST you can:
+
 - Discord Community Guidelines: https://discordapp.com/guidelines
+
 - Discord Terms of Service: https://discordapp.com/terms
 
 NO:
 
 Illegal Content:
+
 Child pornography, solicitation of minors, terrorism, threats of school shootings or criminal activity.
 
 Harassment:
+
 Threats, stalking, bullying, sharing of personal information, impersonation or raiding.
 
 Spam or Phishing Link(s):
+
 Fake links, invites to a server via bot, malicious links or attachments.
 
 - No unsolicited DMs or ads to other members. Unsolicited marketing messages or broadcasts are forbidden, and fall under the term "spam" according to Discord's ToS. 
