@@ -5,15 +5,15 @@
 
 
 
-Remember to follow the channel names/topics. There might be some hidden rules in there.
+Remember to follow the channel named and topics. There might be some hidden rules in there.
 
 No sexual content allowed at all, this includes porn and gore. Mentioning any form of Loli is punishable aswell. Sexual content is only allowed in NSFW channels if any.
 
-Don't say anything that majorly spoils a game or movie (immediate kick/ban).
+Don't say anything that majorly spoils a game or movie.
 
 Spamming and Flooding chat with randomized or repeated content including emotes is prohibited. This includes chain mail, copy-pastas, etc.
 
-Do not use Discord’s markdown feature, caps, special characters and including emojis to spam the chat.
+Do not use Discord’s markdown feature, caps, special characters and emojis to spam the chat.
 
 Be civil. Nothing sabotages a healthy conversation like rudeness.
 
@@ -22,13 +22,8 @@ You can disagree, you can argue, you can be a fan of something — but don't tur
 Do be respectful of the topics and the people discussing them
 
 You must comply with the Discord ToS and Guidelines.
+
 Members must be at least 13 years or older to be on this server.
-
-Please abide by them the BEST you can:
-
-- Discord Community Guidelines: https://discordapp.com/guidelines
-
-- Discord Terms of Service: https://discordapp.com/terms
 
 NO:
 
