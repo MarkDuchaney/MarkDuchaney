@@ -1,4 +1,5 @@
 [Discord Guidelines](https://discordapp.com/guidelines)
+
 [Discord Terms](https://discordapp.com/terms)
 
 
