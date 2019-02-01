@@ -1,6 +1,8 @@
-https://discordapp.com/guidelines
+[Discord Guidelines](https://discordapp.com/guidelines)
+[Discord Terms](https://discordapp.com/terms)
 
-https://discordapp.com/terms
+
+
 
 Remember to follow the channel names/topics. There might be some hidden rules in there.
 
