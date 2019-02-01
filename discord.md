@@ -21,3 +21,5 @@ These can be used in any codeblocks after the characters.
 --- for grey,
 ! for for orange
 ```
+
+*You* **can** ***also*** ~~have~~ them in the same line. 
