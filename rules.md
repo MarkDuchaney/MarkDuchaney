@@ -1,3 +1,9 @@
+
+<!-- Use this line to have the theme on your website -->
+<link href="https://modesta.alexflipnote.xyz/css/modesta.min.css" type="text/css" rel="stylesheet">
+
+
+
 [Discord Guidelines](https://discordapp.com/guidelines)
 
 [Discord Terms](https://discordapp.com/terms)
